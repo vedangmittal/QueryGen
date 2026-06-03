@@ -1,6 +1,6 @@
-# 🗣️ Text to SQL Chatbot
+# 🗣️ QueryGen Chatbot
 
-Welcome to the **Text to SQL Chatbot** project! This project aims to bridge the gap between non-technical team members and database interactions, allowing users to query databases using natural language instead of SQL.
+Welcome to the **QueryGen Chatbot** project! This project aims to bridge the gap between non-technical team members and database interactions, allowing users to query databases using natural language instead of SQL.
 
  📚 Table of Contents
 - [📖 Project Overview](#project-overview)
@@ -24,7 +24,7 @@ This project is applicable in various domains, including healthcare, retail, and
 - **End-to-End Solution**: From data preparation to interaction with the chatbot.
 
  🛠️ Installation
-To get started with the Text to SQL Chatbot, follow these steps:
+To get started with the QueryGen Chatbot, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
@@ -40,7 +40,7 @@ To get started with the Text to SQL Chatbot, follow these steps:
    Ensure you have the necessary API keys for the LLM you will be using (e.g., Google Gemini).
 
   🗼 Architecture
-The architecture of the Text to SQL Chatbot consists of the following components:
+The architecture of the QueryGen Chatbot consists of the following components:
 
 - **Data Source**: Excel sheets containing raw data.
 - **Database**: MySQL database where the data is stored and queried.
