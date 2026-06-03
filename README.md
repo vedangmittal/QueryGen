@@ -28,8 +28,8 @@ To get started with the Text to SQL Chatbot, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/pik1989/Text-to-SQL-Chatbot.git
-   cd Text-to-SQL-Chatbot
+   git clone https://github.com/vedangmittal/QueryGen.git
+   cd QueryGen
    ```
 
 2. **Set Up MySQL**:
@@ -70,6 +70,6 @@ Feel free to contribute to this project or reach out with any questions! Happy c
 ```
 
 # Notes:
-- Replace `pik1989` in the clone command with your actual GitHub username.
+- Replace `vedangmittal` in the clone command with your actual GitHub username.
 - Update the path to the architecture diagram image in the Markdown.
 - Customize any sections as needed to better fit your project specifics.
